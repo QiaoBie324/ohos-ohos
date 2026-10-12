@@ -1,0 +1,16 @@
+{
+  "name": "sample_device_info",
+  "version": "1.0.0",
+  "modelVersion": "5.0.0",
+  "description": "Flutter OHOS plugin for device info (MethodChannel sample)",
+  "author": {
+    "name": "Flutter Plugin Author",
+    "email": "dev@example.com",
+    "url": "https://github.com/example/sample_device_info"
+  },
+  "main": "src/main/ets/plugin/SampleDeviceInfoPlugin.ets",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ohos/flutter_ohos": "file:../libs/flutter_ohos"
+  }
+}

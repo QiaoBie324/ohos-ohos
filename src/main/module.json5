@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "sample_device_info",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
